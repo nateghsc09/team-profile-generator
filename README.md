@@ -9,7 +9,7 @@ The app will collect the data and then upload it to an HTML.
 
 A scrrenshot and video of the app are in this readme. 
 
-![video] (.//assests/Recording #1.mp4)
+![(.//assests/Recording #1.mp4)]
 
 
 
