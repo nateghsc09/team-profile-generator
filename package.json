@@ -11,12 +11,10 @@
     "inquirer": "^8.0.0",
     "jest": "^26.6.3",
     "json": "^10.0.0"
-  
-    
   },
   "devDependencies": {},
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -28,7 +26,4 @@
     "url": "https://github.com/nateghsc09/team-profile-generator/issues"
   },
   "homepage": "https://github.com/nateghsc09/team-profile-generator#readme"
-
-  
- 
 }
